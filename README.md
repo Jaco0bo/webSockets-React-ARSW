@@ -20,7 +20,12 @@ conectados. Para realizarlo utilizaremos:
 **2. Actualizar el pom para utilizar la configuración web-MVC de spring boot. Incluya lo
 siguiente en su pom**
 
-**3. Cree la siguiente clase que iniciará el servidor de aplicaciones de Spring**}
+**3. Cree la siguiente clase que iniciará el servidor de aplicaciones de Spring**
 
 Para los pasos 1,2 y 3 hacemos uso de ``spring initializr`` que nos genera de manera automatica todo lo anterior, importante añadir la dependencia de web para el punto 2.
 
+**Clase Main:**
+![](./images/imagen1.png)
+
+**Archivo POM:**
+![](./images/imagen2.png)
