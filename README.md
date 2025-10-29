@@ -32,3 +32,19 @@ Para los pasos 1,2 y 3 hacemos uso de ``spring initializr`` que nos genera de ma
 **Archivo POM:**
 
 ![](./images/imagen2.png)
+
+**4. Cree un controlador Web que le permitirá cargar la configuración mínima Web-MVC**
+
+![](./images/imagen3.png)
+
+**5. Cree un index html en la siguiente localización: /src/main/resources/static**
+
+![](./images/imagen4.png)
+
+**6. Corra la clase que acabamos de crear y su servidor debe iniciar la ejecución**
+
+![](./images/imagen5.png)
+
+**7. Verifique que se esté ejecutando accediendo a ``localhost:8080/status``**
+
+![](./images/imagen6.png)
