@@ -48,3 +48,15 @@ Para los pasos 1,2 y 3 hacemos uso de ``spring initializr`` que nos genera de ma
 **7. Verifique que se esté ejecutando accediendo a ``localhost:8080/status``**
 
 ![](./images/imagen6.png)
+
+**8. Construyamos el EndPoint el servidor con Websockets:**
+
+![](./images/imagen7.png)
+
+**9. Construyamos una clase que emita mensajes desde el servidor:**
+
+![](./images/imagen8.png)
+
+**10. Ahora construyamos un componente que nos ayude a configurar el contenedor IoC**
+
+![](./images/imagen9.png)
