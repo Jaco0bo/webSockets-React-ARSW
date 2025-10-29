@@ -60,3 +60,17 @@ Para los pasos 1,2 y 3 hacemos uso de ``spring initializr`` que nos genera de ma
 **10. Ahora construyamos un componente que nos ayude a configurar el contenedor IoC**
 
 ![](./images/imagen9.png)
+
+**11. Ahora construimos el cliente Web, el index sería:**
+
+![](./images/imagen10.png)
+
+**12. Construyamos el componente ReactJS:**
+
+![](./images/imagen11.png)
+
+**13. Finalmente corremos la aplicación para verificar que funciona:**
+
+![](./images/imagen12.png)
+
+![](./images/imagen13.png)
